@@ -9,19 +9,8 @@ We’re a Zambian software and technology company committed to delivering modern
 ## 🧩 What We Do
 
 - 💻 Web & Mobile App Development  
-- 🔌 IoT & Embedded Systems  
 - ☁️ Cloud Engineering & DevOps  
 - 📊 System Integration & Business Automation  
-
----
-
-## 🛠️ Tech Stack Highlights
-
-- **Languages**: PHP, JS/TS, Python, C++
-- **Frameworks**: Laravel, React, React Native, Next.js
-- **Cloud & DevOps**: AWS, Docker, GitHub Actions
-- **IoT**: ESP32, Arduino, MQTT, Firebase
-
 ---
 
 ## 🤝 Let’s Collaborate
