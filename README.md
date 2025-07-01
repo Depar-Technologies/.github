@@ -18,7 +18,7 @@ We’re a Zambian software and technology company committed to delivering modern
 We welcome partnerships, contributors, and innovators passionate about practical tech.
 
 📧 **Contact**: info@departech.com  
-🌍 **Website**: Coming Soon
+🌍 **Website**: <a>www.departechnologies.com</a>
 
 ---
 
